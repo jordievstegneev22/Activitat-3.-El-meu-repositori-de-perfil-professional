@@ -1,9 +1,10 @@
-# Activitat-3.-El-meu-repositori-de-perfil-professional
-
 # Hola! Sóc en Jordi Evstegneev 👋
 
 **Estudiant de 2n de SMX (Sistemes Microinformàtics i Xarxes)**  
 Escola Pia Santa Anna de Mataró
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jordi-evstegneev-05546b408/)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/jordievstegneev22)
 
 ---
 
@@ -32,7 +33,6 @@ a estudiar informàtica.
 | Muntatge i manteniment d'equips | Components, assemblatge, diagnòstic d'avaries |
 | Sistemes operatius monolloc | Windows, Linux, usuaris i permisos |
 | Sistemes operatius en xarxa | Servidors, dominis, recursos compartits |
-
 | Xarxes locals | Cablejat, adreçament IP, configuració de routers i switches |
 | Seguretat informàtica | Còpies de seguretat, antivirus, protecció de dades |
 | Serveis de xarxa | DNS, DHCP, web, correu |
@@ -66,7 +66,6 @@ a estudiar informàtica.
 
 ---
 
-
 ## 💻 Projectes i pràctiques
 
 ### 🔧 [NOM DE LA PRÀCTICA]
@@ -89,16 +88,19 @@ a estudiar informàtica.
 
 **On vull arribar**
 
-- A curt termini: acabar el cicle de SMX i fer les pràctiques en una empresa del sector
-- A mitjà termini: continuar formant-me en programació i seguir creixent com a tècnic
-- A llarg termini: dedicar-me professionalment a crear coses amb la tecnologia
+- A curt termini: acabar el cicle de SMX i cursar el **CFGS de Desenvolupament
+  d'Aplicacions Multiplataforma (DAM)**
+- A mitjà termini: accedir a la universitat per especialitzar-me en
+  **ciberseguretat o intel·ligència artificial**
+- A llarg termini: completar la formació amb un màster i dedicar-me
+  professionalment a crear coses amb la tecnologia
 
 ---
 
 ## 📫 Contacte
 
 - ✉️ Correu: [alu.jordi.evstegneev@mataro.epiaedu.cat](mailto:alu.jordi.evstegneev@mataro.epiaedu.cat)
-
+- 💼 LinkedIn: [Jordi Evstegneev](https://www.linkedin.com/in/jordi-evstegneev-05546b408/)
 - 🐙 GitHub: [@jordievstegneev22](https://github.com/jordievstegneev22)
 
 ---
